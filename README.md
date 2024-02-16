@@ -1,0 +1,1 @@
+# hide-an-object
